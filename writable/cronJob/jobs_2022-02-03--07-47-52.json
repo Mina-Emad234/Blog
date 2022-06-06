@@ -1,0 +1,16 @@
+[
+    {
+        "name": "closure_36569f2f3f899e1e5361afa4af455d64",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "output": {
+            "CSP": null
+        },
+        "error": null,
+        "start_at": "2022-02-03 07:47:52",
+        "end_at": "2022-02-03 07:47:52",
+        "duration": "00:00",
+        "test_time": null
+    }
+]

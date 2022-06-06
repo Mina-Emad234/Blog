@@ -1,0 +1,31 @@
+/e/xampp/php/README.md: line 1: syntax error near unexpected token `newline'
+/e/xampp/php/README.md: line 1: `<div align="center">'
+stdout is not a tty
+/e/xampp/php/README.md: line 1: syntax error near unexpected token `newline'
+/e/xampp/php/README.md: line 1: `<div align="center">'
+'*' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+CodeIgniter CLI Tool - Version 4.0.0-rc.3 - Server-Time: 2022-02-03 15:12:58pm
+
+
+**** Running Tasks... ****
+
+[2022-02-03 15:12:58] Processing: closure_376c336d0582fe83c66c42ecf65a2272
+[2022-02-03 15:12:58] Executed: closure_376c336d0582fe83c66c42ecf65a2272
+
+**** Completed ****
+
+
+
+CodeIgniter CLI Tool - Version 4.0.0-rc.3 - Server-Time: 2022-02-03 15:13:03pm
+
+
+**** Running Tasks... ****
+
+[2022-02-03 15:13:03] Processing: closure_376c336d0582fe83c66c42ecf65a2272
+[2022-02-03 15:13:04] Executed: closure_376c336d0582fe83c66c42ecf65a2272
+
+**** Completed ****
+

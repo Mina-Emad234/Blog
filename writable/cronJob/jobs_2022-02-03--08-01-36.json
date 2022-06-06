@@ -1,0 +1,14 @@
+[
+    {
+        "name": "closure_f2ad84288ba5571cf7cf53bc2517dcd7",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "output": "",
+        "error": null,
+        "start_at": "2022-02-03 08:01:36",
+        "end_at": "2022-02-03 08:01:36",
+        "duration": "00:00",
+        "test_time": null
+    }
+]
